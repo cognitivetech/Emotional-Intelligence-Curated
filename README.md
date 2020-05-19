@@ -10,7 +10,7 @@
 * [Podcasts and Episodes](#podcasts---episodes)
 * [Mostly Free Online Courses](#online-courses-mostly-free)
 * [Resources](#resources)
-* [Research](#research)
+  * [Research](#research)
 
 ## Emotional Intelligence by Daniel Goleman
 
@@ -78,7 +78,7 @@
 * [THE EMOTION THESAURUS: A WRITER'S GUIDE TO CHARACTER EXPRESSION](https://epdf.pub/the-emotion-thesaurus-a-writers-guide-to-character-expression.html) - (referred by: [Emotional Badass](https://podcasts.apple.com/au/podcast/emotion-thesaurus-sensation-expression-emotion-as-hsps/id1363543523?i=1000415463492))
 * [The Work](https://thework.com/) by Byron Katie - (referred by: [EQ Evolution](https://podcasts.apple.com/us/podcast/is-your-thinking-causing-you-stress-candice-dick/id1288535512?i=1000397134570))
 
-## Research
+### Research
 
 [Consortium for Research on Emmotional Intelligence in Organizations](http://www.eiconsortium.org/index.html)
 * [Research Categories](http://www.eiconsortium.org/references/articles_reference.html) - Consortium for Research on Emotional Intelligence in Organizations maintains a list of references of scholarly articles on the topic of emotional intelligence.
