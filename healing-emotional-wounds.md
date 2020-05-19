@@ -4,7 +4,9 @@ Many of us have learned to suppress our emotions, to try and focus on something 
 
 The core component of emotional healing is presence with and working through our difficult emotion. While it may seem straightforward enough, it's not necessarily pleasant. On the other hand, fully working through and experiencing our emotion relieves us of the pain of trying to suppress painful facts of our existence. 
 
-#### These are podcasts I find useful for working through difficult emotions.
+#### I've found this series at a crucial point in my healing journey, it was here I began my journey in Emotional Intelligence.
+
+(This podcast also happens to provide an incredible introduction to Jungian Psychology)
 
 ## Healing of Emotional Wounds A Jungian Approach - Alan Mulhern
 
