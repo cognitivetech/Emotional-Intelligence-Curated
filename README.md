@@ -1,8 +1,16 @@
 # Emotional Intelligence Curated
 
-
 * [Emotional Intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence)
   > Emotional intelligence (EI), emotional leadership (EL), emotional quotient (EQ) and emotional intelligence quotient (EIQ), is the capability of individuals to recognize their own emotions and those of others, discern between different feelings and label them appropriately, use emotional information to guide thinking and behavior, and manage and/or adjust emotions to adapt to environments or achieve one's goal(s).
+
+## TOC
+
+* [Emotional Intelligence by Daniel Goleman](#emotional-intelligence-by-daniel-goleman)
+* [Positive Psychology](#positive-psychology)
+* [Podcasts and Episodes](#podcasts---episodes)
+* [Mostly Free Online Courses](#online-courses-mostly-free)
+* [Resources](#resources)
+* [Research](#research)
 
 ## Emotional Intelligence by Daniel Goleman
 
