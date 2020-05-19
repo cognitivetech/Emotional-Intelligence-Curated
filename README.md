@@ -9,8 +9,8 @@
 * [Positive Psychology](#positive-psychology)
 * [Podcasts and Episodes](#podcasts---episodes)
 * [Mostly Free Online Courses](#online-courses-mostly-free)
+* [Research](#research)
 * [Resources](#resources)
-  * [Research](#research)
 
 ## Emotional Intelligence by Daniel Goleman
 
@@ -27,8 +27,6 @@
     > - Empathy: emotional sensitivity to others; a talent for tuning into others’ feelings, and reading their unspoken messages
     > - Handling relationships: grace in dealing with others–strong social skills are the key to popularity, leadership, and interpersonal effectiveness
 * [Daniel Goleman's five components of emotional intelligence](https://web.sonoma.edu/users/s/swijtink/teaching/philosophy_101/paper1/goleman.htm)
-* [Emotional Intelligence Series](https://johnmaxwellleadershippodcast.com/episodes/john-maxwell-emotional-intelligence) - John Maxwell Leadership Podcast
-  > In this series, John Maxwell references the book Emotional Intelligence by Daniel Goleman and shares five attributes of an emotionally intelligent leader.
 * [Emotional Intelligence Has 12 Elements. Which Do You Need to Work On?](https://hbr.org/2017/02/emotional-intelligence-has-12-elements-which-do-you-need-to-work-on) by Daniel Goleman and Richard E. Boyatzis (2017)
   > ![](https://i.imgur.com/KXCysSh.png)
 
@@ -54,8 +52,15 @@
 ## Podcasts - Episodes
 
 * [Top 15 Emotional Intelligence Podcasts You Must Follow in 2020](https://blog.feedspot.com/emotional_intelligence_podcasts/)
-
+* [Emotional Intelligence Series](https://johnmaxwellleadershippodcast.com/episodes/john-maxwell-emotional-intelligence) - John Maxwell Leadership Podcast
+  > In this series, John Maxwell references the book Emotional Intelligence by Daniel Goleman and shares five attributes of an emotionally intelligent leader.
 * [Rana el Kaliouby — AI, Emotional Intelligence, and the Journey of Finding Oneself (#423)](https://tim.blog/2020/04/21/rana-el-kaliouby/)
+* [Dr. Marc Brackett and Brené on "Permission to Feel"](https://brenebrown.com/podcast/dr-marc-brackett-and-brene-on-permission-to-feel/)
+  > Dr. Marc Brackett has dedicated his life to studying emotions and to teaching us what he’s learning. In this episode, we talk about how emotional literacy – being able to recognize, name, and understand our feelings – affects everything from learning, decision making, and creativity, to relationships, health, and performance.
+* [Become an Emotion Scientist with Marc Brackett [VIDEO]](https://scottbarrykaufman.com/podcast/become-an-emotion-scientist-with-marc-brackett/) by Scott Barry Kaufman, December 19, 2019
+  > “Emotion skills are the key to unlocking the potential inside each one of us. And in the process of developing those skills, we each, heart by heart, mind by mind, create a culture and society unlike anything we’ve experienced thus far— and very much like the one we might dare to imagine.”  — Marc Brackett
+* [Emotions, Learning, and Resilience](https://thelearnerlab.com/emotions-learning-resilience-permission-to-feel-emotional-agility/)
+  >  The way we traditionally look at emotions can hurt our capacity to grow. To become a better learner we need to change our perceptions of emotions, learn to feel them, understand them, and to work with them rather than against them. Marc Brackett joins to explain his work and fantastic book, Permission to Feel. Susan David shows us how to build Emotional Agility.
 
 ## Online Courses (Mostly Free)
 
@@ -73,12 +78,7 @@
 * [Emotions: a Philosophical Introduction](https://www.coursera.org/learn/emotions)
   >  Philosophy is like sex: sure you can get some interesting results, but that's not why we do it. Going one step beyond…why do you FEEL pain or pleasure? Do plants have emotions? How is possible that some people do not understand other’s emotions? Emotions seem to be everywhere, giving meaning to all events of our lives. They are the backbone of social activities as well as they drive the cognitive processes of several living entities. Several animals, including humans, have emotions but…what about machines?...Do machine can have emotions?
 
-## Resources 
-
-* [THE EMOTION THESAURUS: A WRITER'S GUIDE TO CHARACTER EXPRESSION](https://epdf.pub/the-emotion-thesaurus-a-writers-guide-to-character-expression.html) - (referred by: [Emotional Badass](https://podcasts.apple.com/au/podcast/emotion-thesaurus-sensation-expression-emotion-as-hsps/id1363543523?i=1000415463492))
-* [The Work](https://thework.com/) by Byron Katie - (referred by: [EQ Evolution](https://podcasts.apple.com/us/podcast/is-your-thinking-causing-you-stress-candice-dick/id1288535512?i=1000397134570))
-
-### Research
+## Research
 
 [Consortium for Research on Emmotional Intelligence in Organizations](http://www.eiconsortium.org/index.html)
 * [Research Categories](http://www.eiconsortium.org/references/articles_reference.html) - Consortium for Research on Emotional Intelligence in Organizations maintains a list of references of scholarly articles on the topic of emotional intelligence.
@@ -101,3 +101,7 @@
   * [Emotional Intelligence in Teams and Work Groups](http://www.eiconsortium.org/references/emotional_intelligence_in_teams_and_workgroups.html) 
   * [Emotional Intelligence Training and Development](http://www.eiconsortium.org/references/emotional_intelligence_training_and_development.html) 
 
+## Additional Resources 
+
+* [THE EMOTION THESAURUS: A WRITER'S GUIDE TO CHARACTER EXPRESSION](https://epdf.pub/the-emotion-thesaurus-a-writers-guide-to-character-expression.html) - (referred by: [Emotional Badass](https://podcasts.apple.com/au/podcast/emotion-thesaurus-sensation-expression-emotion-as-hsps/id1363543523?i=1000415463492))
+* [The Work](https://thework.com/) by Byron Katie - (referred by: [EQ Evolution](https://podcasts.apple.com/us/podcast/is-your-thinking-causing-you-stress-candice-dick/id1288535512?i=1000397134570))
