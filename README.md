@@ -14,6 +14,9 @@
   * [Podcasts and Episodes](#podcasts---episodes)
   * [Mostly Free Online Courses](#online-courses-mostly-free)
   * [Research](#research)
+* [Emotion in Tech](#emotion-in-tech)
+  * [Empathy](#empathy)
+  * [Empathy Mapping](#empathy-mapping)
 
 ## Emotional Intelligence by Daniel Goleman
 
@@ -119,6 +122,7 @@
   * [Emotional Intelligence in Teams and Work Groups](http://www.eiconsortium.org/references/emotional_intelligence_in_teams_and_workgroups.html) 
   * [Emotional Intelligence Training and Development](http://www.eiconsortium.org/references/emotional_intelligence_training_and_development.html) 
 
+  
 ## Emotion in Tech
 
 * [Virtual Humans with the USC Director for Virtual Human Research](https://mindandmachine.libsyn.com/28-virtual-humans-with-the-usc-director-for-virtual-human-research-jonathan-gratch), Jonathan Gratch
