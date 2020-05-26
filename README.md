@@ -2,15 +2,18 @@
 
 * [Emotional Intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence)
   > Emotional intelligence (EI), emotional leadership (EL), emotional quotient (EQ) and emotional intelligence quotient (EIQ), is the capability of individuals to recognize their own emotions and those of others, discern between different feelings and label them appropriately, use emotional information to guide thinking and behavior, and manage and/or adjust emotions to adapt to environments or achieve one's goal(s).
+* [Emotional Intelligence](https://www.mindtools.com/pages/article/newCDV_59.htm) Developing Strong "People Skills"
+  > We probably all know people, either at work or in our personal lives, who are really good listeners. No matter what kind of situation we're in, they always seem to know just what to say – and how to say it – so that we're not offended or upset. They're caring and considerate, and even if we don't find a solution to our problem, we usually leave feeling more hopeful and optimistic.
 
 ## TOC
 
 * [Emotional Intelligence by Daniel Goleman](#emotional-intelligence-by-daniel-goleman)
 * [Positive Psychology](#positive-psychology)
-* [Podcasts and Episodes](#podcasts---episodes)
-* [Mostly Free Online Courses](#online-courses-mostly-free)
-* [Research](#research)
+* [The Work](#the-work---byron-katie)
 * [Resources](#resources)
+  * [Podcasts and Episodes](#podcasts---episodes)
+  * [Mostly Free Online Courses](#online-courses-mostly-free)
+  * [Research](#research)
 
 ## Emotional Intelligence by Daniel Goleman
 
@@ -47,9 +50,18 @@
   * [26 Best Emotional Intelligence Books (Reviews + Summaries)](https://positivepsychology.com/best-emotional-intelligence-books/) Catherine Moore, Psychologist, MBA 16 31-12-2018
   * [What is Emotional Intelligence? +18 Ways To Improve It](https://positivepsychology.com/emotional-intelligence-eq/) Courtney E. Ackerman, MSc. 51 14-11-2018
   * [The Emotion Wheel: What It Is and How to Use It [+PDF]](https://positivepsychology.com/emotion-wheel/) Hokuma Karimova, MA 16 24-12-2017
-  
 
-## Podcasts - Episodes
+## The Work - Byron Katie
+
+* [The Work](https://thework.com/) by Byron Katie - (referred by: [EQ Evolution](https://podcasts.apple.com/us/podcast/is-your-thinking-causing-you-stress-candice-dick/id1288535512?i=1000397134570))
+
+
+## Resources
+
+* [THE EMOTION THESAURUS: A WRITER'S GUIDE TO CHARACTER EXPRESSION](https://epdf.pub/the-emotion-thesaurus-a-writers-guide-to-character-expression.html) - (referred by: [Emotional Badass](https://podcasts.apple.com/au/podcast/emotion-thesaurus-sensation-expression-emotion-as-hsps/id1363543523?i=1000415463492))
+
+
+### Podcasts - Episodes
 
 * [Top 15 Emotional Intelligence Podcasts You Must Follow in 2020](https://blog.feedspot.com/emotional_intelligence_podcasts/)
 * [Emotional Intelligence Series](https://johnmaxwellleadershippodcast.com/episodes/john-maxwell-emotional-intelligence) - John Maxwell Leadership Podcast
@@ -61,8 +73,14 @@
   > “Emotion skills are the key to unlocking the potential inside each one of us. And in the process of developing those skills, we each, heart by heart, mind by mind, create a culture and society unlike anything we’ve experienced thus far— and very much like the one we might dare to imagine.”  — Marc Brackett
 * [Emotions, Learning, and Resilience](https://thelearnerlab.com/emotions-learning-resilience-permission-to-feel-emotional-agility/)
   >  The way we traditionally look at emotions can hurt our capacity to grow. To become a better learner we need to change our perceptions of emotions, learn to feel them, understand them, and to work with them rather than against them. Marc Brackett joins to explain his work and fantastic book, Permission to Feel. Susan David shows us how to build Emotional Agility.
+* [EPISODE 170 - Emotion Regulation with Elina Thomas](https://herewearepodcast.com/episode/170/elina-thomas) Jun 11, 2018
+  > Shane talks about emotion regulation and scanning babies with OHSU Behavioral Neuroscience Grad. Student Elina Thomas.
+  * [T43. Early Emerging Regulatory Behavior Mediates Association Between Newborn Brain Connectivity and Subsequent Internalizing Symptoms](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(19)30516-5/fulltext) Elina Thomas, Claudia Buss, Dakota Ortega, Martin Styner, Damien Fair, Alice Graham
+    > A large effort has been made to understand how early emerging infant emotionality and regulatory ability relate to future behavioral outcomes and underlying neurobiology. The current study evaluates associations between newborn amygdala connectivity, infant regulatory ability, and internalizing symptomology at 24-months-of-age.
+* [Invertebrate Emotions, Part 1 Stuff To Blow Your Mind](https://podcasts.apple.com/us/podcast/invertebrate-emotions-part-1/id350359306?i=1000468181842) - [part 2](https://podcasts.apple.com/us/podcast/invertebrate-emotions-part-2/id350359306?i=1000468689055)
+  > Humans are feeling creatures, constantly awash in a sea of emotion. We struggle to understand the waters that suffuse us, but what about other denizens of the animal kingdom? What about the octopods? In this Stuff to Blow Your Mind two-parter, Robert and Joe explore the question of invertebrate emotions.
 
-## Online Courses (Mostly Free)
+### Online Courses (Mostly Free)
 
 * [Goleman EI](https://golemanei.com/) - Goleman EI: Emotional Intelligence Coaching & Training Programs Enroll in an Online Emotional Intelligence Course Get Coached Become an Emotional Intelligence Certified Coach Train Your Organization in Emotional Intelligence.
 * [Empathy and Emotional Intelligence at Work](https://www.edx.org/course/empathy-and-emotional-intelligence-at-work)
@@ -78,7 +96,7 @@
 * [Emotions: a Philosophical Introduction](https://www.coursera.org/learn/emotions)
   >  Philosophy is like sex: sure you can get some interesting results, but that's not why we do it. Going one step beyond…why do you FEEL pain or pleasure? Do plants have emotions? How is possible that some people do not understand other’s emotions? Emotions seem to be everywhere, giving meaning to all events of our lives. They are the backbone of social activities as well as they drive the cognitive processes of several living entities. Several animals, including humans, have emotions but…what about machines?...Do machine can have emotions?
 
-## Research
+### Research
 
 [Consortium for Research on Emmotional Intelligence in Organizations](http://www.eiconsortium.org/index.html)
 * [Research Categories](http://www.eiconsortium.org/references/articles_reference.html) - Consortium for Research on Emotional Intelligence in Organizations maintains a list of references of scholarly articles on the topic of emotional intelligence.
@@ -101,7 +119,32 @@
   * [Emotional Intelligence in Teams and Work Groups](http://www.eiconsortium.org/references/emotional_intelligence_in_teams_and_workgroups.html) 
   * [Emotional Intelligence Training and Development](http://www.eiconsortium.org/references/emotional_intelligence_training_and_development.html) 
 
-## Additional Resources 
+## Emotion in Tech
 
-* [THE EMOTION THESAURUS: A WRITER'S GUIDE TO CHARACTER EXPRESSION](https://epdf.pub/the-emotion-thesaurus-a-writers-guide-to-character-expression.html) - (referred by: [Emotional Badass](https://podcasts.apple.com/au/podcast/emotion-thesaurus-sensation-expression-emotion-as-hsps/id1363543523?i=1000415463492))
-* [The Work](https://thework.com/) by Byron Katie - (referred by: [EQ Evolution](https://podcasts.apple.com/us/podcast/is-your-thinking-causing-you-stress-candice-dick/id1288535512?i=1000397134570))
+* [Virtual Humans with the USC Director for Virtual Human Research](https://mindandmachine.libsyn.com/28-virtual-humans-with-the-usc-director-for-virtual-human-research-jonathan-gratch), Jonathan Gratch
+  > My guest today is Jonathan Gratch, Director for Virtual Human Research at the [USC Institute for Creative Technologies](https://ict.usc.edu/) -- among the most comprehensive research and development facilities for Virtual Humans. Jon is also a USC Research Professor of Psychology and Computer Science – the two areas most central to the development of Virtual Humans.
+  > 
+  > We talk with Jon about emotional interactive machines, what we learn about human beings by modeling human behavior in algorithms, and the potential for people developing emotional connections to digital agents.
+
+* [Association for the Advancement of Affective Computing](https://aaac.cs.nott.ac.uk/) [*](https://emotion-research.net/)
+
+### Empathy
+
+* [underscoredam/empathy](https://github.com/underscoredam/empathy)
+  > Manipulation of Audio Visuals and Microsoft Cognitive Emotion API to Make the user Happy.
+* [KimberlyMunoz/empathy-in-engineering](https://github.com/KimberlyMunoz/empathy-in-engineering)
+  > A curated list of resources for building and promoting more compassionate engineering cultures
+* [hitherejoe/Resources-for-Allyship](https://github.com/hitherejoe/Resources-for-Allyship) 
+  > A personal list of article, books etc that I have read / watched which have helped me learn more around diversity and inclusion
+
+### Empathy Mapping
+
+* [Empathy Map](https://gamestorming.com/empathy-map/) Dave Gray
+* [The Customer Value Map v.0.8 - now called Value Proposition Canvas](http://businessmodelalchemist.com/blog/2012/01/the-customer-value-canvas-v-0-8.html) - Alexander Osterwalder 
+* [The Practical Guide to Empathy Maps: 10-Minute User Personas](https://www.uxpin.com/studio/blog/the-practical-guide-to-empathy-maps-creating-a-10-minute-persona/)
+* [What Is an Empathy Map & How to Create One](https://blog.hubspot.com/service/empathy-map) - Swetha Amaresan
+* [Empathy Map](https://www.ibm.com/design/thinking/page/toolkit/activity/empathy-map) - Build empathy for your users through a conversation informed by your team’s observations.
+* [Empathy Mapping: The First Step in Design Thinking](https://www.nngroup.com/articles/empathy-mapping/) By Sarah Gibbons 
+  > Summary: Visualizing user attitudes and behaviors in an empathy map helps UX teams align on a deep understanding of end users. The mapping process also reveals any holes in existing user data.
+
+![](https://i.imgur.com/i1F5WAD.jpg)
