@@ -10,6 +10,8 @@
 * [Emotional Intelligence by Daniel Goleman](#emotional-intelligence-by-daniel-goleman)
 * [Positive Psychology](#positive-psychology)
 * [Shadow Work](#shadow-work)
+  * [The Work](The-Work-Byron-Katie.md) of Byron Katie
+* [Healing Emotional Wounds](Healing-Emotional-Wounds.md)
 * [Resources](#resources)
   * [Assorted Podcasts and Episodes](#assorted-podcasts---episodes)
   * [Mostly Free Online Courses](#online-courses-mostly-free)
