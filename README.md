@@ -1,4 +1,4 @@
-# Emotional Intelligence Curated
+# Emotional Literacy Curated
 
 * [Emotional Intelligence](https://en.wikipedia.org/wiki/Emotional_intelligence)
   > Emotional intelligence (EI), emotional leadership (EL), emotional quotient (EQ) and emotional intelligence quotient (EIQ), is the capability of individuals to recognize their own emotions and those of others, discern between different feelings and label them appropriately, use emotional information to guide thinking and behavior, and manage and/or adjust emotions to adapt to environments or achieve one's goal(s).
@@ -9,9 +9,9 @@
 
 * [Emotional Intelligence by Daniel Goleman](#emotional-intelligence-by-daniel-goleman)
 * [Positive Psychology](#positive-psychology)
-* [The Work](#the-work---byron-katie)
+* [Shadow Work](#shadow-work)
 * [Resources](#resources)
-  * [Podcasts and Episodes](#podcasts---episodes)
+  * [Assorted Podcasts and Episodes](#assorted-podcasts---episodes)
   * [Mostly Free Online Courses](#online-courses-mostly-free)
   * [Research](#research)
 * [Emotion in Tech](#emotion-in-tech)
@@ -54,17 +54,29 @@
   * [What is Emotional Intelligence? +18 Ways To Improve It](https://positivepsychology.com/emotional-intelligence-eq/) Courtney E. Ackerman, MSc. 51 14-11-2018
   * [The Emotion Wheel: What It Is and How to Use It [+PDF]](https://positivepsychology.com/emotion-wheel/) Hokuma Karimova, MA 16 24-12-2017
 
-## The Work - Byron Katie
+## Shadow Work
 
-* [The Work](https://thework.com/) by Byron Katie - (referred by: [EQ Evolution](https://podcasts.apple.com/us/podcast/is-your-thinking-causing-you-stress-candice-dick/id1288535512?i=1000397134570))
+* [The Work](The-Work-Byron-Katie.md) of Byron Katie
+* [Make Your Myth, Face Your Shadow & Own Your Truth with Erick Godsey](https://podcast.curioushumans.com/episodes/make-your-myth-with-erick-godsey)
+  > "The tragic beauty of the human condition is that we suffer so much more than we have to—because of the stories that we tell ourselves." – Erick Godsey
+* [Peter Bell - Shadow Work, Reframing Perceptions & Mental (Brain) Health](https://podcasts.apple.com/ca/podcast/peter-bell-shadow-work-reframing-perceptions-mental/id1278694631?i=1000472020662&l=fr) 
+* [6: Dancing with the dark side of your personality](https://psychologypodcast.libsyn.com/todd-kashdan-on-dancing-with-the-dark-side-of-your-personality)
+  > Psychologist Dr. Todd Kashdan shares some unconventional research on how we can harness “negative” psychological characteristics to live whole, successful and fulfilling lives. Topics include the dark triad, emotional experimentation, mindfulness, education, evolution and what it means to live well.
 
+## Regulating Emotions
+
+* [Episode 172: Emotional Regulation](https://www.healingpathsrecovery.com/addiction-recovery-podcast/emotional-regulation/)
+  > In a continuance of our series on emotional management, we talk about the importance of being able to feel and express our feelings in a healthy way.  Emotions can be intense.  If we haven’t learned how to regulate our emotions, they can spill out in ways that are unhealthy.  Learning this skill can increase our ability to have empathy with others and improve the quality of our relationships. Regulating emotions even has a positive impact on our physical health.
+* [#132: George Haas, Regulating the 'Fear Mind'](https://podbay.fm/podcast/1087147821/e/1524625200)
+  > George Haas has worked as a filmmaker, an artist, a doorman at "every major nightclub in New York City" in the '80s, and now he's a meditation teacher in Los Angeles, but even his meditation journey has many turns. "What can I tell you, I'm a seeker," Haas said, as he described how a regular practice helped ease the psychological trauma of a "crappy childhood," got him sober and now he guides others through his attachment theory-based healing practices.
+* [EPISODE 170 - Emotion Regulation with Elina Thomas](https://herewearepodcast.com/episode/170/elina-thomas) Jun 11, 2018
+  > Shane talks about emotion regulation and scanning babies with OHSU Behavioral Neuroscience Grad. Student Elina Thomas.
 
 ## Resources
 
 * [THE EMOTION THESAURUS: A WRITER'S GUIDE TO CHARACTER EXPRESSION](https://epdf.pub/the-emotion-thesaurus-a-writers-guide-to-character-expression.html) - (referred by: [Emotional Badass](https://podcasts.apple.com/au/podcast/emotion-thesaurus-sensation-expression-emotion-as-hsps/id1363543523?i=1000415463492))
 
-
-### Podcasts - Episodes
+### Assorted Podcasts - Episodes
 
 * [Top 15 Emotional Intelligence Podcasts You Must Follow in 2020](https://blog.feedspot.com/emotional_intelligence_podcasts/)
 * [Emotional Intelligence Series](https://johnmaxwellleadershippodcast.com/episodes/john-maxwell-emotional-intelligence) - John Maxwell Leadership Podcast
@@ -76,12 +88,19 @@
   > “Emotion skills are the key to unlocking the potential inside each one of us. And in the process of developing those skills, we each, heart by heart, mind by mind, create a culture and society unlike anything we’ve experienced thus far— and very much like the one we might dare to imagine.”  — Marc Brackett
 * [Emotions, Learning, and Resilience](https://thelearnerlab.com/emotions-learning-resilience-permission-to-feel-emotional-agility/)
   >  The way we traditionally look at emotions can hurt our capacity to grow. To become a better learner we need to change our perceptions of emotions, learn to feel them, understand them, and to work with them rather than against them. Marc Brackett joins to explain his work and fantastic book, Permission to Feel. Susan David shows us how to build Emotional Agility.
-* [EPISODE 170 - Emotion Regulation with Elina Thomas](https://herewearepodcast.com/episode/170/elina-thomas) Jun 11, 2018
-  > Shane talks about emotion regulation and scanning babies with OHSU Behavioral Neuroscience Grad. Student Elina Thomas.
   * [T43. Early Emerging Regulatory Behavior Mediates Association Between Newborn Brain Connectivity and Subsequent Internalizing Symptoms](https://www.biologicalpsychiatryjournal.com/article/S0006-3223(19)30516-5/fulltext) Elina Thomas, Claudia Buss, Dakota Ortega, Martin Styner, Damien Fair, Alice Graham
     > A large effort has been made to understand how early emerging infant emotionality and regulatory ability relate to future behavioral outcomes and underlying neurobiology. The current study evaluates associations between newborn amygdala connectivity, infant regulatory ability, and internalizing symptomology at 24-months-of-age.
 * [Invertebrate Emotions, Part 1 Stuff To Blow Your Mind](https://podcasts.apple.com/us/podcast/invertebrate-emotions-part-1/id350359306?i=1000468181842) - [part 2](https://podcasts.apple.com/us/podcast/invertebrate-emotions-part-2/id350359306?i=1000468689055)
   > Humans are feeling creatures, constantly awash in a sea of emotion. We struggle to understand the waters that suffuse us, but what about other denizens of the animal kingdom? What about the octopods? In this Stuff to Blow Your Mind two-parter, Robert and Joe explore the question of invertebrate emotions.
+* [Ep #241: Emotional Vocabulary](https://thelifecoachschool.com/podcast/241/)
+  > Growing up, nobody ever sits us down and teaches us how to experience emotions. How to describe them. How to understand what we feel in our bodies and associate these feelings with emotions. Distinguishing between different emotions and naming them correctly are crucial aspects of self-study. That’s why developing our emotional vocabulary is so important.
+* [Susan David: Emotional Agility](https://www.stitcher.com/podcast/sounds-true/insights-at-the-edge/e/56203177) - Sounds True: Insights at the Edge
+  > Susan David is a psychologist teaching at Harvard Medical School, cofounder of the Institute of Coaching at McLean Hospital, and the bestselling author of Emotional Agility: Get Unstuck, Embrace Change, and Thrive in Work and Life. In this episode of Insights at the Edge, Tami Simon talks with Susan about modern society's attitudes toward emotion—specifically our tendency to label certain feelings as good or bad, and the dysfunctional behaviors that arise as a result. Susan explains that a much healthier approach is to identify "bad" emotions as "tough" or "difficult," allowing us to examine them in a granular way that helps in processing them. Tami and Susan discuss how this informed method of dealing with emotions can be taught to children, which is especially important for learning not to bottle or brood upon unpleasant feelings. 
+* [Emotional Literacy](https://www.podcasts.com/the-ageless-wisdom-mystery-school-with-michael-benner/episode/emotional-literacy) - The Ageless Wisdom Mystery School with Michael Benner
+* [180: Become an Emotion Scientist with Marc Brackett](https://psychologypodcast.libsyn.com/180-become-an-emotion-scientist) Dec 19, 2019
+  > “Emotion skills are the key to unlocking the potential inside each one of us. And in the process of developing those skills, we each, heart by heart, mind by mind, create a culture and society unlike anything we’ve experienced thus far— and very much like the one we might dare to imagine.”  -- Marc Brackett
+* [3: Talking Mastery and Social Intelligence](https://psychologypodcast.libsyn.com/the-psychology-podcast-episode-03)
+  > Five time international bestselling author Robert Greene shares his thoughts on creativity, finding your calling, social intelligence and his latest book about what it means to be a ‘Master’ of your craft.
 
 ### Online Courses (Mostly Free)
 
@@ -129,7 +148,6 @@
   > My guest today is Jonathan Gratch, Director for Virtual Human Research at the [USC Institute for Creative Technologies](https://ict.usc.edu/) -- among the most comprehensive research and development facilities for Virtual Humans. Jon is also a USC Research Professor of Psychology and Computer Science – the two areas most central to the development of Virtual Humans.
   > 
   > We talk with Jon about emotional interactive machines, what we learn about human beings by modeling human behavior in algorithms, and the potential for people developing emotional connections to digital agents.
-
 * [Association for the Advancement of Affective Computing](https://aaac.cs.nott.ac.uk/) [*](https://emotion-research.net/)
 
 ### Empathy
@@ -140,6 +158,8 @@
   > A curated list of resources for building and promoting more compassionate engineering cultures
 * [hitherejoe/Resources-for-Allyship](https://github.com/hitherejoe/Resources-for-Allyship) 
   > A personal list of article, books etc that I have read / watched which have helped me learn more around diversity and inclusion
+* [Carl Rogers's 1974 lecture on empathy](https://www.youtube.com/playlist?list=PL9w3l7GkGUr1yxU4s2PiggyCbOO3XfpRf)
+
 
 ### Empathy Mapping
 

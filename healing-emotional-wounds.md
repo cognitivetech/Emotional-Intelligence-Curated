@@ -1,12 +1,12 @@
 # Healing Emotional Wounds
 
-Many of us have learned to suppress our emotions, to try and focus on something else. In our media rich lives, there is a tendency to fill up our conciousness at every moment, so there's no chance of having to confront our inner awareness.
+Many of us have learned to suppress our emotions, to try and focus on something else. In our media rich lives, there is a tendency to fill up our consciousness at every moment, so there's no chance of having to confront our inner awareness.
 
 The core component of emotional healing is presence with and working through our difficult emotion. While it may seem straightforward enough, it's not necessarily pleasant. On the other hand, fully working through and experiencing our emotion relieves us of the pain of trying to suppress painful facts of our existence. 
 
 #### I've found this series at a crucial point in my healing journey, it was here I began my journey in Emotional Intelligence.
 
-(This podcast also happens to provide an incredible introduction to Jungian Psychology)
+(This podcast also happens to provide a great introduction to Jungian Psychology)
 
 ## Healing of Emotional Wounds A Jungian Approach - Alan Mulhern
 
